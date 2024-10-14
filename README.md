@@ -1,6 +1,6 @@
 # NHL Odds Calculator
 
-This Python script calculates various odds and statistics for NHL games based on historical data. It uses Poisson distribution to model goal-scoring patterns and provides probabilities for different game outcomes.
+A simple Python script (more as a proof of concept) calculates various odds and statistics for NHL games based on historical data. It uses Poisson distribution to model goal-scoring patterns and provides probabilities for different game outcomes.
 
 ## Features
 
